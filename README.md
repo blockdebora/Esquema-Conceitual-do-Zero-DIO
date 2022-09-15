@@ -1,4 +1,4 @@
-# Esquema Conceitual do Zero Bootcamp Database Experience DIO
+# Esquema Conceitual do Zero - Bootcamp Database Experience DIO
 Construindo um Esquema Conceitual para Banco De dados do Zero
 
 Objetivo:
